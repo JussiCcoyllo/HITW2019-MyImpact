@@ -29,7 +29,7 @@ The project started on  ...
 
 | Jussi Ccoyllo | Gaëlle Gaban | Mathieu Haquin  | Jean-Philipe Scheepers  
 | :---: |:---:| :---:| :---:| 
-| ![Jussi](https://avatars1.githubusercontent.com/u/46483286?s=100&v=4) | ![Gaëlle](https://avatars2.githubusercontent.com/u/43409069?s=100&v=4)| ![Mathieu](https://avatars0.githubusercontent.com/u/46518645?s=100&v=4) | ![Jean-Philippe](https://avatars0.githubusercontent.com/u/46483527?s=100&v=4)|
+| ![Jussi](https://avatars1.githubusercontent.com/u/46483286?s=100&v=4) | ![Gaëlle]( )| ![Mathieu]( ) | ![Jean-Philippe]( )|
 | <a href="https://www.linkedin.com/in/jussi-ccoyllo" target="_blank">`JussiCcoyllo`</a> | <a href="#"  target="_blank">`Gaëlle Gaban`</a> | <a href="#"  target="_blank">`Mathieu`</a> | <a href="#" target="_blank">`Jean-Philippe`</a> |
 
 ## Installation Process
