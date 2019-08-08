@@ -1,15 +1,17 @@
 # Hack in the Woods - 2019
 # Projet MyImpact - App
 
-The Project ... This project was developed by the Becode [Team](#Team)  
+This project was developed by the Becode [Team](#Team)  
 </br>
-First,   </br>
-Then,  </br>
-Finally,   </br>
+CO2N, our client, asked us to develop and application where people or company could directly see the tree or solar pannels planted with their money, in order to reduce their carbon impact.
+
+First,  we had a brainstorming about the concept and how we wanted to develop it. </br>
+Then,  we talked with our client to have a better understanging about his demands and his needs, about what was possible in the scoope of this NGO. </br>
+Finally, we have perfected our concept and made a prototype which made our client super happy.   </br>
 For this, we used different tools for the Front-End. </br>
 
 ## Project Duration
-The project started on  ...
+The project started on  friday morning and ended up on sunday, when we had to present in front of the client
 
 ## Project Built With
 - Adobe XD
