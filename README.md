@@ -27,10 +27,10 @@ The project started on  ...
  
 ## <a name="Team">Team</a>
 
-| Jussi Ccoyllo | Gaëlle Gaban | Mathieu Haquin  | Jean-Philipe Scheepers  
+| Jussi Ccoyllo | Gaëlle Gaban | Mathieu Haquin  | Jean-Philippe Scheeppers  
 | :---: |:---:| :---:| :---:| 
-| ![Jussi](https://avatars1.githubusercontent.com/u/46483286?s=100&v=4) | ![Gaëlle]( )| ![Mathieu]( ) | ![Jean-Philippe]( )|
-| <a href="https://www.linkedin.com/in/jussi-ccoyllo" target="_blank">`JussiCcoyllo`</a> | <a href="#"  target="_blank">`Gaëlle Gaban`</a> | <a href="#"  target="_blank">`Mathieu`</a> | <a href="#" target="_blank">`Jean-Philippe`</a> |
+| ![Jussi](https://avatars1.githubusercontent.com/u/46483286?s=100&v=4) | ![Gaëlle](https://avatars2.githubusercontent.com/u/46487743?s=100&v=4)| ![Mathieu](https://avatars3.githubusercontent.com/u/49678137?s=100&v=4) | ![Jean-Philippe]( )|
+| <a href="https://www.linkedin.com/in/jussi-ccoyllo" target="_blank">`JussiCcoyllo`</a> | <a href="https://www.linkedin.com/in/gaelle-gaban/"  target="_blank">`Gaëlle Gaban`</a> | <a href="https://www.linkedin.com/in/mathieu-hanquin-09341113b/"  target="_blank">`Mathieu Hanquin`</a> | <a href="https://www.linkedin.com/in/jean-philippe-scheppers/" target="_blank">`Jean-Philippe Scheppers`</a> |
 
 ## Installation Process
  
